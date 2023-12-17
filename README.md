@@ -14,7 +14,7 @@ The provided Python code defines a university management system comprising class
 <h2>Program walk-through:</h2>
 <p align="center">
 UML Diagram:<br/>
- A visual representation of the system
+ A visual representation of the system.
 <img src="https://i.imgur.com/tEv5wB0.png" height="80%" width="80%" alt="UML Diagram"/>
 <br />
 <br />
